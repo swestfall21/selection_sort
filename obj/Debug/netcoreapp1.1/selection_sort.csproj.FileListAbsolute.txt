@@ -1,0 +1,8 @@
+C:\temp\corepg\selection_sort\bin\Debug\netcoreapp1.1\selection_sort.deps.json
+C:\temp\corepg\selection_sort\bin\Debug\netcoreapp1.1\selection_sort.runtimeconfig.json
+C:\temp\corepg\selection_sort\bin\Debug\netcoreapp1.1\selection_sort.runtimeconfig.dev.json
+C:\temp\corepg\selection_sort\bin\Debug\netcoreapp1.1\selection_sort.dll
+C:\temp\corepg\selection_sort\bin\Debug\netcoreapp1.1\selection_sort.pdb
+C:\temp\corepg\selection_sort\obj\Debug\netcoreapp1.1\selection_sort.AssemblyInfo.cs
+C:\temp\corepg\selection_sort\obj\Debug\netcoreapp1.1\selection_sort.dll
+C:\temp\corepg\selection_sort\obj\Debug\netcoreapp1.1\selection_sort.pdb
